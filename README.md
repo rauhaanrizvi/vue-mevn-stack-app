@@ -4,12 +4,29 @@ This is a step by step MEVN stack tutorial, in this tutorial, we are going to le
 [Vue MEVN Stack Tutorial – Build Full Stack Vue.js CRUD App](https://www.positronx.io/vue-mevn-stack-tutorial-build-full-stack-vue-js-crud-app/)
 
 
-## Project setup
+## Start the MEVN Stack project.
 ```
-npm install
-```
+Git clone https://github.com/SinghDigamber/vue-mevn-stack-app.git
 
-### Compiles and hot-reloads for development
-```
+Get inside the project
+cd vue-mevn-stack-app
+
+Install the required packages:
+npm install
+
+Start the vue app on http://localhost:8080
 npm run serve
+
+Get inside the Node server folder:
+cd backend
+
+Install the required packages:
+npm install
+
+Start the mongodb server.
+mongo
+
+Start node server on http://localhost:4000/api 
+nodemon
+
 ```
