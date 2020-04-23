@@ -6,7 +6,6 @@ This is a step by step MEVN stack tutorial, in this tutorial, we are going to le
 
 ## Project setup
 ```
-https://github.com/SinghDigamber/vue-mevn-stack-app.git
 npm install
 ```
 
